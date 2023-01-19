@@ -1,17 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "XXX"
-    },
-    {
-        "title": "My Name",
-        "text": "Magic",
-        "id": "a9955285-e8e5-481f-b850-db280a3dd435"
-    },
-    {
-        "title": "My Note Goes Here",
-        "text": "Enter note Here",
-        "id": "0c67041f-926c-43a7-be3f-00c9dc9dcd5e"
+        "title": "Test Note 1",
+        "text": "Note Text Here",
+        "id": "f842571c-6c5f-43f9-b6ed-61f663cf50e0"
     }
 ]
