@@ -2,16 +2,16 @@
     {
         "title": "Test Title",
         "text": "Test text",
-        "note_id": "XXX"
+        "id": "XXX"
     },
     {
         "title": "My Name",
         "text": "Magic",
-        "note_id": "a9955285-e8e5-481f-b850-db280a3dd435"
+        "id": "a9955285-e8e5-481f-b850-db280a3dd435"
     },
     {
         "title": "My Note Goes Here",
         "text": "Enter note Here",
-        "note_id": "0c67041f-926c-43a7-be3f-00c9dc9dcd5e"
+        "id": "0c67041f-926c-43a7-be3f-00c9dc9dcd5e"
     }
 ]
